@@ -1,0 +1,12 @@
+{
+    "admin": [
+        "Auth",
+        "Task",
+        "Error"
+    ],
+    "default": [
+        "Auth",
+        "Task",
+        "Error"
+    ]
+}
